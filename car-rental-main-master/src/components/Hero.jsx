@@ -39,7 +39,7 @@ function Hero() {
             <div className="hero-content__text">
               <h4>Plan your trip now</h4>
               <h1>
-                 <span>Welcome</span> to RideEasy Rental Services
+                 <span>Welcome</span> to Surya's RideEasy Rental Services
               </h1>
               <p>
                 Rent the car of your dreams. Unbeatable prices, unlimited miles,
